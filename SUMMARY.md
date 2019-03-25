@@ -21,8 +21,9 @@
   * Concepts
 * [supOS Builer](supos-builer.md)
   * Concepts
-* [supOS Web JSAPI](supos-web-jsapi.md)
-  * Concepts
+* [supOS API](supos-api/api.md)
+  * [supOS Web JSAPI](supos-api/web-api.md)
+  * [supOS Object JSAPI](supos-api/object-api.md)
 * [supOS Edge](supos-edge.md)
   * Concepts
 * [supOS Connect](supos-connect.md)
